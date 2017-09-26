@@ -50,7 +50,7 @@ $result = pg_fetch_all($query);
     </form>
 </div>
 <div class="col-md-8">
-<div class="container" style="max-height:600px;overflow:auto;border:solid .5px;">
+<div style="max-height:500px;overflow:auto;border:solid .5px;">
     <table class="table">
         <tr>
             <th>Type</th>
